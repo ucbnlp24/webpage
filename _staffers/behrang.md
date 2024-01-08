@@ -1,11 +1,11 @@
 ---
 name: Behrang Mohit
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: behrangm bluh berkeley.edu
+website: https://www.icsi.berkeley.edu/~behrangm
 photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Wednesdays 3:30-4:30
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
