@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# Policies *
 {:.no_toc}
 
 ## Table of contents
@@ -14,6 +14,7 @@ description: >-
 1. TOC
 {:toc}
 
+* Majority of these policies are borrowed from earlier offerings of this course (by Prof. David Bamman).
 ---
 ## Class Attendance
 

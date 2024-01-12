@@ -1,8 +1,6 @@
 ---
-name: Daksh Jain
-role: Teaching Assistant
-#email: daksh
-#website: daksh webpage
-#photo: kevin.jpg
+name: Daksh Jain, Maddy Wang
+Role: Teaching Assistants
+Email: nlp-staff-sp24@lists.berkeley.ed
 ---
 
