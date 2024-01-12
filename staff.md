@@ -18,7 +18,7 @@ description: A listing of all the course staff members.
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
-Contact: nlp-staff-sp24@lists.berkeley.edu
+<i> Email: nlp-staff-sp24@lists.berkeley.edu </i>
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
