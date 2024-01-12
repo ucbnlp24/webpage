@@ -8,4 +8,4 @@ meta:
   Office Hours: Wednesdays 3:30-4:30
 ---
 
-#[Schedule an appointment](#){: .btn .btn-outline }
+
