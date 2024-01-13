@@ -1,10 +1,8 @@
 ---
-title: Natural Language Processing
+title: Course Calendar 
 ---
 
-Date
-: [Topic]
-  : [Readings]
+<b> Date: Topic: Readings </b>
 
 
 Jan. 17 

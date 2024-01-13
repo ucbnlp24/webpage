@@ -19,7 +19,6 @@ timeline:
   - '7:00 PM'
   - '7:30 PM'
   - '8:00 PM'
-  
 schedule:
   - name: Monday
     events:
@@ -41,7 +40,6 @@ schedule:
         start: 3:00 PM
         end: 5:00 PM
         location: 107 South
-  
   - name: Wednesday
     events:
       - name: Office Hours (Madeleine on Zoom)
@@ -57,12 +55,11 @@ schedule:
         end: 8:00 PM
         location: 145 Dwinelle
   - name: Thursday
-  events:
+    events:
       - name: Office Hours (Alvin, Zhihao)
         start: 11:30 AM
         end: 12:30 PM
         location: 107 South
-
   - name: Friday
     events:
       - name: Office Hours (Sanjana, Cassandra)
@@ -73,5 +70,4 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Zoom link on BCourses
-
 ---
