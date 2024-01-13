@@ -27,8 +27,8 @@ Jan. 31
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 5 
-: Corporta & Annotation
-  : [TBD]()
+: Corpora & Annotation
+  : [TBD]
 
 Feb. 7 
 : Language Modeling 1: Intro to Ngram and Neural Models
@@ -108,14 +108,16 @@ Apr. 10
 
 Apr. 15 
 : Social NLP
-: TBD
+  : TBD
 
 Apr 17 
 : NLP For Low Resource Languages
-: TBD
+  : TBD
+
 
 Apr. 22 
 : TBD
+  : TBD
   
 
 Apr. 24 
