@@ -45,4 +45,4 @@ This course has two midterm exams scheduled for 2/ and 3/.  The higher grade of 
 ## Final Grades
 Grades for this course will not be curved. Minimum thresholds for letter grades are the following: 93 A, 90 A-, 87 B+, 83 B, 80 B-, 77 C+ 73 C, 70 C-, 67 D+, 63 D, 60 D-, 0 F. Students taking the course P/NP must complete all deliverables and will receive a P if their grade is greater or equal to 70 (C-); Students taking S/U must complete all deliverables and will receive an S if their grade is greater or equal to 80 (B-).
 
-* Majority of these policies are borrowed from earlier offerings of this course (by Prof. David Bamman).
+*Majority of these policies are borrowed from earlier offerings of this course (by Prof. David Bamman).

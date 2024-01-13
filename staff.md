@@ -8,7 +8,7 @@ description: A listing of all the course staff members.
 
 
 ## Instructor
-Behrang Mohit (behrangm@berkeley.edu)
+Behrang Mohit <i> (behrangm@berkeley.edu)</i>
 
 
 

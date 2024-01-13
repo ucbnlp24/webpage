@@ -1,10 +1,8 @@
 ---
-title: Week 1 Announcement
-week: 1
-date: 2019-04-08
+title: Textbooks
+
 ---
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+- [SLP3] Dan Jurafsky and James Martin, Speech and Language Processing (3nd ed. draft) Available [here](https://web.stanford.edu/~jurafsky/slp3/)
+[G] Yoav Goldberg, Neural Network Methods for Natural Language Processing (2017) [Available for free on campus/VPN here]
+[PS] James Pustejovsky and Amber Stubbs, Natural Language Annotation for Machine Learning (2012) [Online access available for free through the UC library here]

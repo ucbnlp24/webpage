@@ -1,8 +1,12 @@
 ---
-title: Week 0 Announcement
-week: 0
-date: 2019-04-01
+title: Grade Distribution
 ---
 
-Hello world!
-{: .fs-5 }
+INFO 159:
+- Quizzes: 10%
+- Homework: 20%
+
+INFO 259:
+- Quizzes: 10%
+- Homework: 25%
+
