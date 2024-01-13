@@ -9,3 +9,8 @@ description: The weekly event schedule.
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}
+
+All Rooms are in South Hall.
+
+*Zoom links are posted on BCourses
+

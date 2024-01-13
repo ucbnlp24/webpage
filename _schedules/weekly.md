@@ -22,31 +22,30 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Office Hours (Daksh)
+      - name: OH@6A South
         start: 11:00 AM
         end: 12:00 PM
-        location: 6A South
-      - name: Office Hours (Alvin, Jaewon)
+        location: Daksh
+      - name: OH@6A South
         start: 1:00 PM
         end: 2:00 PM
-        location: 6A
-      - name: Lecture
+        location: Alvin,Zhihao
+      - name: Lec@145 Dwinelle
         start: 6:30 PM
         end: 8:00 PM
-        location: 145 Dwinelle
   - name: Tuesday
     events:
-      - name: Office Hours (Zhihao, Madeleine, Sanjana)
+      - name: OH@ 107 South
         start: 3:00 PM
         end: 5:00 PM
-        location: 107 South
+        location: Zhihao,Madeleine,Sanjana
   - name: Wednesday
     events:
-      - name: Office Hours (Madeleine on Zoom)
+      - name: OH (Madeleine)
         start: 11:00 AM
         end: 12:00 PM
-        location: Zoom link on BCourses
-      - name: Office Hours (Behrang)
+        location: Zoom
+      - name: OH (Behrang)
         start: 3:30 PM
         end: 4:30 PM
         location: 6A South
@@ -56,18 +55,18 @@ schedule:
         location: 145 Dwinelle
   - name: Thursday
     events:
-      - name: Office Hours (Alvin, Zhihao)
+      - name: OH (Alvin, Zhihao)
         start: 11:30 AM
         end: 12:30 PM
         location: 107 South
   - name: Friday
     events:
-      - name: Office Hours (Sanjana, Cassandra)
+      - name: OH (Sanjana, Cassandra)
         start: 12:00 PM
         end: 1:00 PM
         location: 107 South
-      - name: Office Hours (Jaewon on Zoom)
+      - name: OH (Jaewon on Zoom)
         start: 2:00 PM
         end: 3:00 PM
-        location: Zoom link on BCourses
+        location: Zoom
 ---
