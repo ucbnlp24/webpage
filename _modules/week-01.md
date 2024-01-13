@@ -2,20 +2,20 @@
 title: Course Calendar 
 ---
 
-Date
-: Topic
-  : Readings
+: Date
+  : Topic
+    : Readings
 
 Jan. 17 
 : [Introduction](slides/lec1_intro.pdf)
   : [Browse NLP-progress](http://nlpprogress.com)
 
 Jan. 22 
-: [Words, Embeddings]
+: Words, Embeddings
   : [SLP Ch 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Jan. 24 
-: [Text Classification 1: Logistic Regression]
+: Text Classification 1: Logistic Regression
   : [SLP Ch 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan. 29 
