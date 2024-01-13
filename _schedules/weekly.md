@@ -41,32 +41,32 @@ schedule:
         location: Zhihao,Madeleine,Sanjana
   - name: Wednesday
     events:
-      - name: OH (Madeleine)
+      - name: OH@Zoom
         start: 11:00 AM
         end: 12:00 PM
-        location: Zoom
-      - name: OH (Behrang)
+        location: Madeleine
+      - name: OH@6A South
         start: 3:30 PM
         end: 4:30 PM
-        location: 6A South
-      - name: Lecture
+        location: Behrang
+      - name: Lec@145 Dwinnele
         start: 6:30 PM
         end: 8:00 PM
-        location: 145 Dwinelle
+        location:
   - name: Thursday
     events:
-      - name: OH (Alvin, Zhihao)
+      - name: OH@107 South
         start: 11:30 AM
         end: 12:30 PM
-        location: 107 South
+        location: Alvin, Zhihao
   - name: Friday
     events:
-      - name: OH (Sanjana, Cassandra)
+      - name: OH@107 South
         start: 12:00 PM
         end: 1:00 PM
-        location: 107 South
-      - name: OH (Jaewon on Zoom)
+        location: Sanjana, Cassandra
+      - name: OH@Zoom
         start: 2:00 PM
         end: 3:00 PM
-        location: Zoom
+        location: Jaewon
 ---
