@@ -1,23 +1,21 @@
 ---
-title: Introduction to Java
+title: Natural Language Processing
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Date
+: [Topic]
+  : [Readings]
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Jan. 17 
+: [Introduction](slides/lec1_intro.pdf)
+  : [SLP Ch](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Jan. 22 
+: [Words, Embeddings](#)
+  : [SLP Ch 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jan. 24 
+: [Text Classification 1: Logistic Regression](#)
+  : [SLP Ch 6](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
