@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 # Staff
 
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -18,7 +18,7 @@ description: A listing of all the course staff members.
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
-<i> Email: nlp-staff-sp24@lists.berkeley.edu </i>
+<i> nlp-staff-sp24@lists.berkeley.edu </i>
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
