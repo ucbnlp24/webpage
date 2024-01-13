@@ -5,7 +5,7 @@ description: A listing of all the course staff members.
 ---
 
 # Staff
-
+<i> nlp-staff-sp24@lists.berkeley.edu </i>
 
 ## Instructor
 Behrang Mohit <i> (behrangm@berkeley.edu)</i>
@@ -13,8 +13,6 @@ Behrang Mohit <i> (behrangm@berkeley.edu)</i>
 
 
 ## Teaching Assistants
-<i> nlp-staff-sp24@lists.berkeley.edu </i>
-
 - Alvin Bao
 - Cassandra Claire Calciano
 - Daksh Jain
