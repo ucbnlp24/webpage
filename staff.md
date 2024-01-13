@@ -8,18 +8,20 @@ description: A listing of all the course staff members.
 
 
 ## Instructor
+Behrang Mohit
+{: .mb-2 .fs-4 .text-grey-dk-300}
+behrangm@berkeley.edu
+{: .mb-2 .fs-3 .text-grey-dk-100}
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
 <i> nlp-staff-sp24@lists.berkeley.edu </i>
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+{: .mb-2 .fs-3 .text-grey-dk-100}
+Alvin Bao
+Cassandra Claire Calciano
+Daksh Jain
+Jaewon Lee
+Madeleine Tamy Wang
+Sanjana Gajendran
+Zhihao Du
+{: .mb-2 .fs-4 .text-grey-dk-300}
