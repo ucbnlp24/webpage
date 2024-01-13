@@ -2,9 +2,9 @@
 title: Course Calendar 
 ---
 
-: Date
+<b>Date </b>
   : Topic
-    : Readings
+     : <b>Readings</b>
 
 Jan. 17 
 : [Introduction](slides/lec1_intro.pdf)
@@ -28,7 +28,7 @@ Jan. 31
 
 Feb. 5 
 : Corpora & Annotation
-  : [TBD]
+  : TBD
 
 Feb. 7 
 : Language Modeling 1: Intro to Ngram and Neural Models
