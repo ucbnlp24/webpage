@@ -118,5 +118,5 @@ Apr. 22
   : TBD
   
 Apr. 24 
-: <span style="color:red; font-weight: bold;">Final Project Presentations</span>
+: <span style="color:purple; font-weight: bold;">Final Project Presentations</span>
 
