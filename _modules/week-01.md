@@ -3,7 +3,7 @@ title: Course Calendar
 ---
 
 <b>Date </b>
-  : Topic
+  : Topic/Slides
      : <b>Readings</b>
 
 Jan. 17 
@@ -43,13 +43,11 @@ Feb. 14
   : TBD
 
 Feb. 19 
-: Presidents' Day (No Class)
-{: .text-green-dk-200 }
-  
+: <span style="color:green">Presidents' Day (No Class)</span>
+
   
 Feb. 21 
-: Exam 1
-{: .text-green-dk-200 }   
+: <span style="color:red">Exam 1</span>
 
 Feb. 26 
 : Statistical Sequence Labeling
