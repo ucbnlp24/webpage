@@ -7,10 +7,10 @@ description: >-
     Course policies and information.
 ---
 
-# Natural Language Processing 
-{: .mb-2 .text-purple-dk-200}
+# Natural Language Processing
+{:.mb-2}
 Spring 2024, Mon/Wed, 6:30-8:00 PM, Dwinelle 145
-{: .mb-2 .fs-6 .text-purple-dk-000}
+{: .mb-2 .fs-6 .text-grey-dk-000 }
 
 
 ---
@@ -26,4 +26,4 @@ This course introduces students to NLP and exposes them to the variety of method
 {{ module }}
 {% endfor %}
 
-*Major parts of course design and contents have been drawn from its earlier offerings by Prof. David Bamman. 
+*A major part of course design and contents have been drawn from its earlier offerings by Prof. David Bamman. 
