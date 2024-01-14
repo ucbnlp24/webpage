@@ -28,7 +28,7 @@ Jan. 31
 
 Feb. 5 
 : Corpora & Annotation
-  : ANLP Ch 6
+  : NLA Ch 6
 
 Feb. 7 
 : Language Modeling 1: Intro to Ngram and Neural Models
@@ -43,11 +43,11 @@ Feb. 14
   : TBD
 
 Feb. 19 
-: <span style="color:green">Presidents' Day (No Class)</span>
+:  <span style="color:green; font-weight: bold;">Presidents' Day (No Class)</span>
 
   
 Feb. 21 
-: <span style="color:red">Exam 1</span>
+: <span style="color:red; font-weight: bold;">Exam 1</span>
 
 Feb. 26 
 : Statistical Sequence Labeling
@@ -78,16 +78,16 @@ Mar. 18
   : [SLP Ch 26](https://web.stanford.edu/~jurafsky/slp3/26.pdf)
 
 Mar. 20 
-: Exam 2
-{: .text-blue-dk-200 }  
+: <span style="color:red; font-weight: bold;">Exam 2</span>
+
 
 Mar. 25 
-: Spring Break
-{: .text-green-dk-200 }  
+: <span style="color:green; font-weight: bold;">Spring Break</span>
+
 
 Mar. 27 
-: Spring Break
-{: .text-green-dk-200 }  
+: <span style="color:green; font-weight: bold;">Spring Break</span>
+
 
 Apr. 1 
 : Question Answering
