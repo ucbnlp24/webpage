@@ -8,7 +8,10 @@ description: >-
 ---
 
 # Natural Language Processing 
-{:.no_toc}
+{:.mb-2}
+Spring 2024, Mon/Wed, 6:30-8:00 PM, Dwinelle 145
+{: .mb-2 .fs-6 .text-grey-dk-000 }
+
 
 ---
 Welcome to Natural Language Processing!
