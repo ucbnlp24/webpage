@@ -10,7 +10,7 @@ description: The weekly schedule
 {{ schedule }}
 {% endfor %}
 
-All Rooms are in South Hall.
+All office hour rooms are in South Hall.
 
 *Zoom links are posted on BCourses
 
