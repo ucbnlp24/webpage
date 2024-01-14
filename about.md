@@ -10,7 +10,7 @@ description: >-
 # Natural Language Processing 
 {:.mb-2 .text-purple-dk-200}
 Spring 2024, Mon/Wed, 6:30-8:00 PM, Dwinelle 145
-{: .mb-2 .fs-6 .text-purple-dk-000 }
+{: .mb-2 .fs-6 .text-purple-dk-000}
 
 
 ---
