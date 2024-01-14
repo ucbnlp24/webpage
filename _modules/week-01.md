@@ -20,15 +20,15 @@ Jan. 24
 
 Jan. 29 
 : Text Classification 2: MLP
-  : [SLP Ch 7-1:7:6](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+  : [SLP Ch 7.1:7.6](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Jan. 31 
-: Text Classification 3: Self-Attention & Transformers
+: Text Classification 3: Attention & Transformers
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 5 
 : Corpora & Annotation
-  : TBD
+  : ANLP Ch 6
 
 Feb. 7 
 : Language Modeling 1: Intro to Ngram and Neural Models
@@ -44,11 +44,12 @@ Feb. 14
 
 Feb. 19 
 : Presidents' Day (No Class)
+{: .text-green-dk-200 }
   
   
 Feb. 21 
 : Exam 1
-   
+{: .text-green-dk-200 }   
 
 Feb. 26 
 : Statistical Sequence Labeling
@@ -80,15 +81,15 @@ Mar. 18
 
 Mar. 20 
 : Exam 2
-  
+{: .text-blue-dk-200 }  
 
 Mar. 25 
 : Spring Break
-  
+{: .text-green-dk-200 }  
 
 Mar. 27 
 : Spring Break
-  
+{: .text-green-dk-200 }  
 
 Apr. 1 
 : Question Answering
@@ -122,4 +123,4 @@ Apr. 22
 
 Apr. 24 
 : Final Project Presentations
-   
+{: .text-blue-dk-200 }   
