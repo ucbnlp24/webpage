@@ -25,3 +25,5 @@ This course introduces students to natural language processing and exposes them 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+*A major part of course content has been borrowed from earlier offerings by Prof. David Bamman. 

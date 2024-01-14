@@ -113,12 +113,10 @@ Apr 17
 : NLP For Low Resource Languages
   : TBD
 
-
 Apr. 22 
 : TBD
   : TBD
   
-
 Apr. 24 
-: Final Project Presentations
-{: .text-blue-dk-200 }   
+: <span style="color:red; font-weight: bold;">Final Project Presentations</span>
+
