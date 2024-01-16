@@ -7,7 +7,7 @@ title: Course Calendar
      : <b>Readings</b>
 
 Jan. 17 
-: [Introduction](slides/lec1_intro.pdf)
+: [Introduction]
   : [Browse NLP-progress](http://nlpprogress.com)
 
 Jan. 22 
