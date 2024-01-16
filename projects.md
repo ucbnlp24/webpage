@@ -8,8 +8,6 @@ description: >-
 # Course Projects
 {:.no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
 
 
 ---
@@ -25,7 +23,9 @@ Students in INFO 159 will work on a 2000 2ords survey for a specific NLP subfiel
 
 
 
-## INFO 259: NLP Project: Students in INFO 259 will work on a semester long NLP project on either on core NLP methods or using NLP in support of an empirical research question.
+## INFO 259: NLP Project
+
+Students in INFO 259 will work on a semester long NLP project on either on core NLP methods or using NLP in support of an empirical research question.
 For examples of the former, see papers published at <a href="https://www.aclweb.org/anthology/venues/acl/">ACL</a>, <a href="https://www.aclweb.org/anthology/venues/naacl/">NAACL</a> and <a href="https://www.aclweb.org/anthology/venues/emnlp/">EMNLP</a>; for examples of the latter, see workshops for <a href="https://www.aclweb.org/anthology/venues/nlpcss/">NLP and Computational Social Science</a>, <a href="https://www.aclweb.org/anthology/venues/latech/">Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</a>, <a href="https://www.aclweb.org/anthology/venues/nlptea/">Natural Language Processing Techniques for Educational Applications</a>, <a href="https://www.aclweb.org/anthology/venues/wnut/">Noisy User-Generated Text</a>, and <a href="https://www.aclweb.org/anthology/venues/">many more</a>.
 
-Details of the project will be communicated on the bCourses.
+Details of the above projects will be communicated on the bCourses.
