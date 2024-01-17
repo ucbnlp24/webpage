@@ -8,14 +8,13 @@ description: A listing of all the course staff members.
 <i> nlp-staff-sp24@lists.berkeley.edu </i>
 
 ## Instructor
-Behrang Mohit <i> (behrangm@berkeley.edu)</i>
+Behrang Mohit(https://www1.icsi.berkeley.edu/~behrangm/) <i> (behrangm@berkeley.edu)</i>
 
 
 
 ## Teaching Assistants
 - Alvin Bao
 - Cassandra Claire Calciano
-- Daksh Jain
 - Jaewon Lee
 - Madeleine Tamy Wang
 - Sanjana Gajendran

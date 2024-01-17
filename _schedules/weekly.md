@@ -25,7 +25,7 @@ schedule:
       - name: OH@6A South
         start: 11:00 AM
         end: 12:00 PM
-        location: Daksh
+        location: Cassandra
       - name: OH@6A South
         start: 1:00 PM
         end: 2:00 PM
