@@ -5,7 +5,7 @@ description: A listing of all the course staff members.
 ---
 
 # Staff
-<i> nlp-staff-sp24@lists.berkeley.edu </i>
+<b>Contact:</b> <i> nlp-staff-sp24@lists.berkeley.edu </i>
 
 ## Instructor
 <a href="https://www.icsi.berkeley.edu/~behrangm"> Behrang Mohit</a>  <i> (behrangm@berkeley.edu)</i>
