@@ -1,5 +1,5 @@
 ---
-title: Course Calendar 
+title: Course Calendar
 ---
 
 <b>Date </b>
@@ -7,7 +7,7 @@ title: Course Calendar
      : <b>Readings</b>
 
 Jan. 17 
-: [Introduction]
+: [Introduction](slides/1_intro.pdf)
   : [Browse NLP-progress](http://nlpprogress.com)
 
 Jan. 22 
