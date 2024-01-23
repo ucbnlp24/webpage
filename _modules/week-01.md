@@ -11,7 +11,7 @@ Jan. 17
   : [Browse NLP-progress](http://nlpprogress.com)
 
 Jan. 22 
-: Words, Embeddings
+: [Words, Embeddings](slides/2_vector_semantics.pdf)
   : [SLP Ch 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Jan. 24 
