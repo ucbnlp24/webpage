@@ -15,7 +15,7 @@ Jan. 22
   : [SLP Ch 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Jan. 24 
-: Text Classification 1: Logistic Regression
+: [Text Classification 1: Logistic Regression](slides/3_classification_1.pdf)
   : [SLP Ch 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan. 29 
