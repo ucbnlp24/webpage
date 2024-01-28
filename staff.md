@@ -13,6 +13,7 @@ description: A listing of all the course staff members.
 
 
 ## Teaching Assistants
+- Aaron Rodden
 - Alvin Bao
 - Cassandra Claire Calciano
 - Jaewon Lee
