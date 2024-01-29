@@ -29,7 +29,7 @@ schedule:
       - name: OH@6A South
         start: 1:00 PM
         end: 2:00 PM
-        location: Alvin,Zhihao
+        location: Alvin,Jaewon
       - name: Lec@145 Dwinelle
         start: 6:30 PM
         end: 8:00 PM
