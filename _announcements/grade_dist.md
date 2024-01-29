@@ -6,7 +6,7 @@ INFO 159:
 - Homework: 25%
 - Annotation Project: 25%
 - Weekly Quizzes: 10%
-- Exams- max(exam1, exam2): 20%
+- Exams = max(exam1, exam2): 20%
 - NLP subfield survey: 20%
 
 INFO 259:
