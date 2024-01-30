@@ -19,8 +19,8 @@ Jan. 24
   : [SLP Ch 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan. 29 
-: Text Classification 2: Feed-forward & Convolution Neural Networks(slides/4_classification_2.pdf)
-  : [SLP Ch 7.1:7.6](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+: [Text Classification 2: Feed-forward, Convolution Neural Networks](slides/4_classification_2.pdf)
+  : SLP Ch 7.1:7.6, NNLP Ch 13.
 
 Jan. 31 
 : Text Classification 3: Attention & Transformers
