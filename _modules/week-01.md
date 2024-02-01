@@ -23,7 +23,7 @@ Jan. 29
   : SLP Ch 7.1:7.6, NNLP Ch 13.
 
 Jan. 31 
-: Text Classification 3: Attention & Transformers
+: [Text Classification 3: Attention & Transformers](slides/5_attention.pdf)
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 5 
