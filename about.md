@@ -26,5 +26,7 @@ This course introduces students to NLP and exposes them to the variety of method
 {{ module }}
 {% endfor %}
 
-*Course calendar is subject to change.
-**A major part of course design and contents have been drawn from its earlier offerings by Prof. David Bamman. 
+
+*A major part of course design and contents have been drawn from its earlier offerings by Prof. David Bamman.
+
+**Course calendar is subject to change.

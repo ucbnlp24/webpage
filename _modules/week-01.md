@@ -1,5 +1,5 @@
 ---
-title: Course Calendar
+title: Course Calendar**
 ---
 
 <b>Date </b>
