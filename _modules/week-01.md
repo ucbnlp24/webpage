@@ -27,7 +27,7 @@ Jan. 31
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 5 
-: Corpora & Annotation
+: [Corpora & Annotation](slides/6_annotation.pdf)
   : NLA Ch 6
 
 Feb. 7 
