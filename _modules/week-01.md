@@ -31,7 +31,7 @@ Feb. 5
   : NLA Ch 6
 
 Feb. 7 
-: Language Modeling 1: Intro to Ngram and Neural Models
+: [Language Modeling 1: Ngram and Log Linear Models](slides/7_LM_1.pdf)
   : [SLP Ch 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
 Feb. 12 
