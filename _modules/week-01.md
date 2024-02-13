@@ -35,7 +35,7 @@ Feb. 7
   : [SLP Ch 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
 Feb. 12 
-: Language Modeling 2: Contextual Embeddings
+: [Language Modeling 2: Contextual Embeddings](slides/8_LM_2.pdf)
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 14
