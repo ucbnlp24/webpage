@@ -39,7 +39,7 @@ Feb. 12
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 14
-: Language Modeling 3: BERT, GPT, In Context Learning
+: [Language Modeling 3: BERT, GPT, Prompting](slides/9_LM_3.pdf)
   : [Xie and Min 2022](http://ai.stanford.edu/blog/understanding-incontext/)
 
 Feb. 19 
