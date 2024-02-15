@@ -39,8 +39,8 @@ Feb. 12
   : [SLP Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Feb. 14
-: Language Modeling 3: Large Language Models
-  : TBD
+: Language Modeling 3: BERT, GPT, In Context Learning
+  : [Xie and Min 2022](http://ai.stanford.edu/blog/understanding-incontext/)
 
 Feb. 19 
 :  <span style="color:green; font-weight: bold;">Presidents' Day (No Class)</span>
