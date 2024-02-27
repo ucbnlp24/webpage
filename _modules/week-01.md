@@ -50,7 +50,7 @@ Feb. 21
 : <span style="color:red; font-weight: bold;">Exam 1</span>
 
 Feb. 26 
-: Statistical Sequence Labeling
+: [Statistical Sequence Labeling](slides/10_pos.pdf)
   : [SLP Ch 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb. 28 
