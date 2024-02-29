@@ -54,7 +54,7 @@ Feb. 26
   : [SLP Ch 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb. 28 
-: Neural Sequence Labeling
+: [Neural Sequence Labeling](slides/11_neural_sequence_labeling.pdf)
   : [SLP Ch 9.3-9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 Mar. 4 
