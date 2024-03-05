@@ -58,10 +58,10 @@ Feb. 28
   : [SLP Ch 9.3-9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 Mar. 4 
-: Syntax & CFG Parsing
+: [Syntax & CFG Parsing](slides/12_syntax.pdf)
   : [SLP Ch 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
 
-Feb. 6 
+Mar. 6 
 : Dependency Parsing
   : [SLP Ch 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
