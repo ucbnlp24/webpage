@@ -62,7 +62,7 @@ Mar. 4
   : [SLP Ch 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
 
 Mar. 6 
-: Dependency Parsing
+: [Dependency Parsing](slides/13_parsing.pdf)
   : [SLP Ch 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 Mar. 11 
