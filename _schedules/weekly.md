@@ -23,10 +23,6 @@ schedule:
   - name: Monday
     events:
       - name: OH@6A South
-        start: 11:00 AM
-        end: 12:00 PM
-        location: Aaron
-      - name: OH@6A South
         start: 1:00 PM
         end: 2:00 PM
         location: Alvin,Jaewon
@@ -45,7 +41,11 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Madeleine
-      - name: OH@6A South
+      - name: OH@210 South
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Aaron
+- name: OH@6A South
         start: 3:30 PM
         end: 4:30 PM
         location: Behrang
