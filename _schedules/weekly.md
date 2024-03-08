@@ -45,7 +45,7 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Aaron
-- name: OH@6A South
+      - name: OH@6A South
         start: 3:30 PM
         end: 4:30 PM
         location: Behrang
