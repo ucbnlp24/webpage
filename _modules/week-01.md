@@ -66,7 +66,7 @@ Mar. 6
   : [SLP Ch 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 Mar. 11 
-: Semantic Role Labeling
+: [Semantic Role Labeling](slides/14_semantic_roles.pdf)
   : [SLP Ch 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 Mar. 13 
