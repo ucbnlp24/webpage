@@ -70,7 +70,7 @@ Mar. 11
   : [SLP Ch 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 Mar. 13 
-: Wordnet, WSD, Supersenses
+: [Wordnet, WSD, Supersenses](slides/15_word_senses.pdf)
   : [SLP Ch 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 Mar. 18 
