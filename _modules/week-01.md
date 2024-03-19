@@ -74,7 +74,7 @@ Mar. 13
   : [SLP Ch 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 Mar. 18 
-: Coreference Resolution
+: [Coreference Resolution](slides/16_coreference.pdf)
   : [SLP Ch 26](https://web.stanford.edu/~jurafsky/slp3/26.pdf)
 
 Mar. 20 
