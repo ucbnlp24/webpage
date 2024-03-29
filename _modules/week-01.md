@@ -90,12 +90,13 @@ Mar. 27
 
 
 Apr. 1 
+: Information Extraction
+  : [SLP Ch 19](https://web.stanford.edu/~jurafsky/slp3/19.pdf)
+
+Apr. 3 
 : Question Answering
   : [SLP Ch 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
-Apr. 3 
-: Information Extraction
-  : [SLP Ch 21](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
 
 Apr. 8 
 : Machine Translation
