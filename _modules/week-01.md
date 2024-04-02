@@ -90,7 +90,7 @@ Mar. 27
 
 
 Apr. 1 
-: Information Extraction
+: [Information Extraction](slides/17_IE.pdf)
   : [SLP Ch 19](https://web.stanford.edu/~jurafsky/slp3/19.pdf)
 
 Apr. 3 
