@@ -94,7 +94,7 @@ Apr. 1
   : [SLP Ch 19](https://web.stanford.edu/~jurafsky/slp3/19.pdf)
 
 Apr. 3 
-: Question Answering
+: [Question Answering](slides/18_QA.pdf)
   : [SLP Ch 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
 
