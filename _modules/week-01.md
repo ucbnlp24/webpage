@@ -99,7 +99,7 @@ Apr. 3
 
 
 Apr. 8 
-: Machine Translation
+: [Machine Translation](slides/19_MT.pdf)
   : [SLP Ch 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 
 Apr. 10 
