@@ -103,11 +103,11 @@ Apr. 8
   : [SLP Ch 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 
 Apr. 10 
-: Text Generation: Dialogues
+: Text Generation: Dialogue
   : [SLP Ch 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
 
 Apr. 15 
-: Social NLP
+: Ethics and Safety in NLP
   : TBD
 
 Apr 17 
