@@ -108,7 +108,7 @@ Apr. 10
 
 Apr. 15 
 : Ethics and Safety in NLP
-  : TBD
+  : [Bender et al, 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
 Apr 17 
 : NLP For Low Resource Languages
