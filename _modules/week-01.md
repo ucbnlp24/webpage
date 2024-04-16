@@ -107,7 +107,7 @@ Apr. 10
   : [SLP Ch 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
 
 Apr. 15 
-: Ethics and Safety in NLP
+: [Ethics and Safety in NLP](slides/21_Ethics.pdf)
   : [Bender et al, 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
 Apr 17 
