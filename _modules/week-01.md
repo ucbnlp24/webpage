@@ -112,7 +112,7 @@ Apr. 15
 
 Apr 17 
 : NLP For Low Resource Languages
-  : TBD
+  : [Hedderich et al, 2021](https://aclanthology.org/2021.naacl-main.201.pdf)
 
 Apr. 22 
 : TBD
