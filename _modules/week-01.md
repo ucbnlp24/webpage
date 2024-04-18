@@ -111,7 +111,7 @@ Apr. 15
   : [Bender et al, 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
 Apr 17 
-: NLP For Low Resource Languages
+: [NLP For Low Resource Languages](slides/22_LowResourceNLP.pdf)
   : [Hedderich et al, 2021](https://aclanthology.org/2021.naacl-main.201.pdf)
 
 Apr. 22 
