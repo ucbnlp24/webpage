@@ -115,7 +115,7 @@ Apr 17
   : [Hedderich et al, 2021](https://aclanthology.org/2021.naacl-main.201.pdf)
 
 Apr. 22 
-: More NLP Applications and Conclusion
+: [More NLP Applications and Conclusion](slides/23_social.pdf)
   : [Talk by Dan Klein:Are LLMs the Beginning or End of NLP?](https://www.youtube.com/watch?v=KVDKWrsP3es)
   
 Apr. 24 
