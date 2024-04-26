@@ -107,11 +107,11 @@ Apr. 10
   : [SLP Ch 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
 
 Apr. 15 
-: [Ethics & Safety in NLP+Guest Lec:Olya Gurevich](slides/21_EthicsSafety.pdf)
+: [Ethics & Safety in NLP+Guest Lec:Olya Gurevich Co-founder PaperMoon AI](slides/21_EthicsSafety.pdf)
   : [Bender et al, 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
 Apr 17 
-: [NLP For Low Resource Languages+Guest Lecture: Sara Hooker, VP of Research-Cohere)](slides/22_LowResourceNLP_AYA.pdf)
+: [NLP For Low Resource Languages+Guest Lec: Sara Hooker, VP of Research-Cohere](slides/22_LowResourceNLP_AYA.pdf)
   : [Hedderich et al, 2021](https://aclanthology.org/2021.naacl-main.201.pdf)
 
 Apr. 22 
